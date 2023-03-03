@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# Hola soy Brian Polo,
+# Hola soy Brian Polo
 ## Soy un estudiante de licenciatura en informatica, actualmente por recibirme de analista de sistemas de computacion
 
 
