@@ -1,7 +1,7 @@
 
 # Hola, soy Brian Polo
 
-## ¡Desarrollador web apasionado por la innovación! 🚀
+## Desarrollador web apasionado por la innovación 🚀
 
 Soy un analista en sistemas de computación con un gran interés en el desarrollo web. Estoy apasionado por aprender nuevas tecnologías y herramientas para mejorar mis habilidades de programación y desarrollar aplicaciones web innovadoras. Me considero una persona creativa y proactiva, siempre buscando soluciones a los desafíos que se presentan. Además, me gusta trabajar en equipo y compartir conocimientos con otros estudiantes y desarrolladores.
 
