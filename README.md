@@ -11,7 +11,7 @@ Soy un analista en sistemas de computación con un gran interés en el desarroll
 - Lenguajes de programación como Python y JavaScript
 - Bootstrap, Sass
 - Bases de datos relacionales 
-- Aprendiendo Frameworks como Angular y Django 🏗️
+- Aprendiendo Frameworks como Angular, Django y React🏗️
 
 Me encanta aprender y siempre estoy dispuesto a adquirir nuevos conocimientos y enfrentar nuevos desafíos. 
 
