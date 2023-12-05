@@ -1,19 +1,19 @@
 
-# Hola, soy Brian Polo
+# Hi there, I'm Brian Polo 👋
 
-## Desarrollador web apasionado por la innovación 🚀
+## Web Developer Passionate about Innovation 🚀
 
-Soy un analista en sistemas de computación con un gran interés en el desarrollo web. Estoy apasionado por aprender nuevas tecnologías y herramientas para mejorar mis habilidades de programación y desarrollar aplicaciones web innovadoras. Me considero una persona creativa y proactiva, siempre buscando soluciones a los desafíos que se presentan. Además, me gusta trabajar en equipo y compartir conocimientos con otros estudiantes y desarrolladores.
+Welcome to my coding realm! I'm a computer systems analyst with a fervor for web development. Constantly driven by the desire to explore cutting-edge technologies and tools, I'm on a journey to enhance my programming skills and craft innovative web applications. I consider myself a creative and proactive individual, always ready to tackle challenges head-on. Collaborating with teams and sharing knowledge with fellow students and developers brings me immense joy.
 
-### Algunas de mis habilidades incluyen:
+### Some of my skills include:
 
 - HTML/CSS/JavaScript
-- Lenguajes de programación como Python y JavaScript
+- Programming languages like Python and JavaScript
 - Bootstrap, Sass
-- Bases de datos relacionales 
-- Aprendiendo Frameworks como Angular, Django y React🏗️
+- Relational databases
+- Exploring frameworks such as Angular, Django, and React 🏗️
 
-Me encanta aprender y siempre estoy dispuesto a adquirir nuevos conocimientos y enfrentar nuevos desafíos. 
+I thrive on learning and am always eager to acquire new knowledge and take on fresh challenges.
 
 
 
