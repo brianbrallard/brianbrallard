@@ -12,7 +12,7 @@ Welcome to my coding realm! I'm a computer systems analyst with a fervor for web
 - Bootstrap, Sass
 - Relational databases
 - Exploring frameworks such as Angular, Django, and React 🏗️
-
+- Algorithms knowledge
 I thrive on learning and am always eager to acquire new knowledge and take on fresh challenges.
 
 
